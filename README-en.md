@@ -1,4 +1,4 @@
-📌 Choose your language: [English](README-en.md) | [فارسی](README-fa.md)
+📌 Choose your language: [English](README-en.md) | [فارسی](README.md)
 
 <div align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Vazir&size=35&pause=1000&color=2E9EF7&center=true&vCenter=true&width=500&lines=Hi!+I'm+Amir+👋;Developer+&+Designer;Passionate+about+learning+and+creativity" alt="Typing SVG" />
