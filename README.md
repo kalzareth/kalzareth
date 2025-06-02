@@ -28,7 +28,7 @@
 ### 💻 در حال یادگیری این زبان‌ها
 <img src="https://skillicons.dev/icons?i=python,js" alt="Python, JavaScript" width="110" height="50"/>
 
-### 🔐 سیستم‌عامل‌ها و مفاهیم امنیتی
+### 🔐 امنیت سایبری 
 <img src="https://skillicons.dev/icons?i=linux" alt="Linux" width="50" height="50"/>
 
 </div>
