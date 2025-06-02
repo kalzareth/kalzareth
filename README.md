@@ -1,4 +1,11 @@
-# 👋 سلام، من امیر هستم!
+<div align="center">
+  <h1>
+    <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35">
+    امیر
+    <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="35">
+  </h1>
+  <h3>🚀 Developer in Progress | 🎨 UI/UX Designer | 🔐 Cybersecurity Enthusiast</h3>
+</div>
 
 👨‍💻 عاشق دنیای تکنولوژی، طراحی و کدنویسی.  
 در حال یادگیری و ساختن مسیر خودم در دنیای برنامه‌نویسی.
