@@ -1,7 +1,5 @@
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=4000&pause=500&color=58a6ff&center=true&vCenter=true&repeat=false&width=500&height=100&lines=Hi+there!+I'm+Amir+👋" />
-  
-  <img src="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake-dark.svg" width="100%" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Vazir&size=35&pause=1000&color=2E9EF7&center=true&vCenter=true&width=500&lines=سلام!+من+امیر+هستم+👋;برنامه‌نویس+و+طراح;عاشق+یادگیری+و+خلاقیت" alt="Typing SVG" />
 </div>
 
 👨‍💻 علاقه مند به دنیای تکنولوژی، طراحی و کدنویسی.  
