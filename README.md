@@ -1,8 +1,6 @@
 # 👋 سلام، من امیر هستم!
 
-<div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00F7FF&center=true&vCenter=true&width=435&lines=Full+Stack+Developer;UI%2FUX+Designer;Cybersecurity+Enthusiast;Always+Learning+New+Things" alt="Typing SVG" />
-</div>
+
 
 ## 🚀 درباره من
 
@@ -23,9 +21,8 @@
 ### 💻 زبان‌های برنامه‌نویسی
 <img src="https://skillicons.dev/icons?i=python,js" alt="Python, JavaScript" width="110" height="50"/>
 
-### 🔐 امنیت و Penetration Testing
+### 🔐 علاقه‌مند به امنیت سایبری
 <img src="https://skillicons.dev/icons?i=linux" alt="Linux" width="50" height="50"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" alt="Kali Linux" width="50" height="50" style="filter: hue-rotate(200deg);"/>
 
 </div>
 
